@@ -4,7 +4,7 @@ Autoclicker using ```python```. Before running your code install the 2 packages 
 ```pip install pyautogui keyboard```
 
 
-now open run the code in any enviornment where it has python.
+Now open run the code in any enviornment where it has python.
 On clicking ```Ctrl + , ``` the autoclicking will start.
 
 Thankyou and all the best
