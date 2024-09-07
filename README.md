@@ -1,5 +1,6 @@
 # autoclicker
 Autoclicker using ```python```. Before running your code install the 2 packages below
+
 ```pip install pyautogui keyboard```
 
 
